@@ -1,2 +1,30 @@
+.container{
+	width:600px;
+	border:5px solid rgb(41, 0, 0);
+}
+.rows{
+	border:5px solid rgb(255, 188, 188);
+	height:200px;
+}
+.columns{
+	border:2px solid rgb(38, 38, 43);
+}
+.row1_col1{
+	background-color:teal;
+}
 
-/* Your CSS Code here. */
+.row1_column2{
+	background-color:thistle;
+}
+.row2_col1{
+	background-color:tomato;
+}
+.row2_col2{
+	background-color:turquoise;
+}
+.row3_col1{
+	background-color:violet;
+}
+.row3_col2{
+	background-color:yellowgreen;
+}
