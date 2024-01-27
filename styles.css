@@ -28,3 +28,6 @@
 .row3_col2{
 	background-color:yellowgreen;
 }
+.row3{
+	place-items:center;
+}
